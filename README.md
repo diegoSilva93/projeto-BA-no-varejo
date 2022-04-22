@@ -1,1 +1,3 @@
 # projeto-BA-no-varejo
+Este é um projeto que visa descrever através de Business Analytics um possível retorno de um cliente com o passar do tempo para aquisição de algum novo produto em um business de varejo.
+Para isso, foi utilizado um dataset de teste com a finalidade de realizar um marketing analytics utilizando bibliotecas do python. Inicialmente foi verificado o ID do cliente e data de compras, além de outros processos que podem ser identificado no arquivo disponível nesse repositório. Por fim, com os dados obtidos, pode ser possível auxiliar a equipe de marketing para que possa direcionar as campanhas de captalização de clientes, financeiro e escolhas de produtos de forma mais acertiva e econômica.
